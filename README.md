@@ -1,3 +1,4 @@
+![Luau](https://img.shields.io/badge/Luau-00b3ff?style=for-the-badge&logo=roblox&logoColor=white)
 # 👋 Hi, I'm Charlie Deschamps
 
 🎓 High school student (France) in a general STEM track, focused on Math, Physics & Computer Science.  
