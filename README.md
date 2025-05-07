@@ -1,4 +1,6 @@
 ![Luau](https://img.shields.io/badge/Luau-00b3ff?style=for-the-badge&logo=roblox&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=imcharlly.imcharlly)
 # 👋 Hi, I'm Charlie Deschamps
 
 🎓 High school student (France) in a general STEM track, focused on Math, Physics & Computer Science.  
